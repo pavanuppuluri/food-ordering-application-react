@@ -2,13 +2,13 @@
 Food Ordering Application - React
 
 * This application is developed in React, JavaScript
-* * React concepts used -
+* **React concepts** used -
   * components
   * hooks (useState, useEffect, useContext etc.)
   * css modules
   * event handling
 
-* Application features
+* **Application features**
   * Food items can be ordered from the menu
   * Quantity can be adjusted using +/-
   
